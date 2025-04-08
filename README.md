@@ -48,7 +48,7 @@ Redirects to a random image using [Picsum Photos](https://picsum.photos/).
 
 ### 👉 Try it Live:
 
-[Click here to view random image](https://randomimage-api-7bym.onrender.com/api/image/random)
+[https://randomimage-api-7bym.onrender.com/api/image/random](https://randomimage-api-7bym.onrender.com/api/image/random)
 
 Each time you refresh, you'll see a different image!
 
