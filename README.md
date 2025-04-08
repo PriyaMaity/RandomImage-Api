@@ -91,5 +91,4 @@ Feel free to fork, remix, and build upon it!
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name](https://github.com/PriyaMaity)
-```
+Made with ❤️ by [Priya Maity](https://github.com/PriyaMaity)
